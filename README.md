@@ -6,7 +6,7 @@ Neste projeto desenvolvi uma aplicação onde é possível criar memes com as im
 ---
 
 ## Tecnologias utilizadas
-Para desenvolver a página foi utilizado **HTML**, **CSS** e **JavaScript**.
+Para desenvolver a página foram utilizados **HTML**, **CSS** e **JavaScript**.
 
 ---
 
@@ -30,7 +30,7 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 
 ## Ilustrações com funcionamento da aplicação
 
-![exemplo 1 da aplicação meme generator](./meme-generator1.gif)
+![exemplo 1 da aplicação meme generator](./meme-generator-1.gif)
 
 ![exemplo 2 da aplicação meme generator](./meme-generator2.gif)
 
