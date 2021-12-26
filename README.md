@@ -1,7 +1,7 @@
 # Boas vindas ao repositório do projeto Meme Generator!
 
 ## Descrição do Projeto
-Neste projeto eu desenvolvi uma aplicação onde é possível criar memes com as imagens já disponíveis e também ao realizar o upload de imagens.
+Neste projeto desenvolvi uma aplicação onde é possível criar memes com as imagens já disponíveis e também ao realizar o upload de imagens.
 
 ---
 
