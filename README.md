@@ -6,7 +6,7 @@ Neste projeto eu desenvolvi uma aplicação onde é possível criar memes com as
 ---
 
 ## Tecnologias utilizadas
-Para desenvolver a página foi utilizado **HTML**, **CSS** e **JavaScript**.
+Para desenvolver a página foram utilizados **HTML**, **CSS** e **JavaScript**.
 
 ---
 
